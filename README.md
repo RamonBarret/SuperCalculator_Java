@@ -1,7 +1,7 @@
 ## Código - Super Calculadora 🔢
 
 <p align="center">
-  <img alt="calculadora" src=".github/calculadora.PNG"/>
+  <img alt="calculadora" src=".github/calculadora.jpg"/>
 </p>
 
 ### Java - Curso em Vídeo ☕▶
