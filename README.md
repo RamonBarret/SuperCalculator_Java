@@ -16,7 +16,7 @@
   <img alt="tela inicial" src=".github/tela_inicial.PNG">
 </p>
 
-### tela após execução 👨🏽‍💻
+### Tela após execução 👨🏽‍💻
 <p align="center">
   <img alt="execucao" src=".github/calculo.PNG">
 </p>
